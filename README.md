@@ -11,3 +11,7 @@ aerOS Server Edition is the Server Edition of aerOS.
 6. 3rd Package Manager's like `flatpak` and `yay` is not preinstalled
 7. aerOS Server Edition will have less customizations
 
+### aerOS Server Edition releated repo's
+
+Installer script: https://github.com/hewol/aeros-se-installer
+
